@@ -5,14 +5,6 @@ using namespace std;
 
 int main()
 {
-	/*
-	int selected = static_cast<int>(13 * 0.75);
-	for (int i = 0; i < 50; i++)
-	{
-		selected = static_cast<int>(13 * 0.75);
-		cout << selected << "\n";
-	}*/
-
 	Graph graph;
 
 	bool exit = false;
